@@ -1,3 +1,3 @@
 # ModelFileMonitor
 
-Model file monitor and converter to potree model format.
+The 3D model file monitor, and then converter to potree model format.
